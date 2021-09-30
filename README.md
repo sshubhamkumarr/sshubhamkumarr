@@ -1,7 +1,8 @@
 ### Hi there 👋
 <img align='left' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/boxertocat_octodex.jpg' width='200"'>
-<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg' width='200"'>
-<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/xtocat.jpg' width='200"'>
+
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg' width='200"'>
+
 <br>
 <br>
 <br>
